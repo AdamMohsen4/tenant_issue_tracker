@@ -13,10 +13,10 @@ Building directory needs updating.,miscellaneous,non-urgent,2025-02-21 16:59:41.
 Recurring spiders in living room.,pest,semi-urgent,2025-02-28 20:19:14.735190,True
 Sink stopper in balcony not working properly.,plumbing,non-urgent,2025-02-19 04:41:24.180083,False
 Stairs collapsed in closet.,structural,urgent,2025-02-07 05:28:31.427053,False
-Washing machine overflowing., getting worse quickly.,appliance,urgent,2025-02-23 06:49:54.252245,True
+"Washing machine overflowing, getting worse quickly.",appliance,urgent,2025-02-23 06:49:54.252245,True
 Washing machine making slight noise during spin cycle.,appliance,non-urgent,2025-02-07 04:31:59.755131,False
 Circuit breaker for bedroom making strange noise.,electrical,semi-urgent,2025-02-19 17:44:23.091314,True
-Refrigerator completely stopped working, unable to stay in apartment.,appliance,urgent,2025-02-24 11:51:13.660636,True
+"Refrigerator completely stopped working, unable to stay in apartment.",appliance,urgent,2025-02-24 11:51:13.660636,True
 Package delivery shelf damaged.,miscellaneous,non-urgent,2025-02-03 07:23:11.665462,False
 Water leaking onto electrical box in living room.,electrical,urgent,2025-02-12 14:09:39.454734,True
 Few houseflies in kitchen.,pest,non-urgent,2025-02-11 17:16:40.985711,False
@@ -26,17 +26,17 @@ Minor temperature fluctuation in closet.,hvac,non-urgent,2025-02-15 20:33:58.651
 AC leaking heavily into electrical outlet in laundry room.,hvac,urgent,2025-02-17 02:54:35.985895,False
 Minor cobwebs in dining room windows.,pest,non-urgent,2025-02-22 05:56:27.762768,False
 Doorbell sound distorted.,electrical,non-urgent,2025-02-07 13:21:23.308108,False
-Bathroom floor making loud banging noise, need immediate attention.,structural,urgent,2025-02-03 05:50:05.576599,False
+"Bathroom floor making loud banging noise, need immediate attention.",structural,urgent,2025-02-03 05:50:05.576599,False
 Slight delay when adjusting thermostat.,hvac,non-urgent,2025-02-22 22:19:41.965449,True
 Heating vent cover fell off in balcony.,hvac,semi-urgent,2025-02-04 22:35:19.229945,False
 Hot water tank leaking heavily in office.,plumbing,urgent,2025-02-28 00:47:53.085137,False
 Stove burner not lighting.,appliance,semi-urgent,2025-02-16 11:38:28.311162,True
-Bathroom pipe burst, water everywhere.,plumbing,urgent,2025-02-16 22:56:19.690556,False
-Bathroom pipe burst, water everywhere.,plumbing,urgent,2025-02-02 19:09:42.371418,False
+"Bathroom pipe burst, water everywhere.",plumbing,urgent,2025-02-16 22:56:19.690556,False
+"Bathroom pipe burst, water everywhere.",plumbing,urgent,2025-02-02 19:09:42.371418,False
 Kitchen sink is overflowing onto the floor.,plumbing,urgent,2025-02-13 06:24:50.019083,False
 One outlet not working in laundry room.,electrical,non-urgent,2025-02-07 12:27:57.972646,False
 Stove burner not lighting.,appliance,semi-urgent,2025-02-02 22:28:28.589993,False
-Bathroom fan not working, causing humidity issues.,electrical,semi-urgent,2025-02-10 15:26:48.011771,True
+"Bathroom fan not working, causing humidity issues.",electrical,semi-urgent,2025-02-10 15:26:48.011771,True
 Washing machine malfunctioning mid-cycle.,appliance,semi-urgent,2025-02-28 17:26:10.759910,False
 Slow drain in laundry room sink.,plumbing,semi-urgent,2025-02-24 04:53:27.898070,False
 Minor leak under entryway sink.,plumbing,semi-urgent,2025-02-09 01:40:56.202321,False
@@ -45,21 +45,21 @@ Slight noise from balcony AC unit.,hvac,non-urgent,2025-02-03 18:38:52.435315,Fa
 Gas stove burner won't turn off.,appliance,urgent,2025-02-16 10:53:00.821234,True
 Squeaky floorboard in basement.,miscellaneous,non-urgent,2025-02-22 11:29:51.746501,False
 Ice maker leaking water onto floor.,appliance,semi-urgent,2025-02-23 19:49:29.588414,True
-Fire damage in living room, extremely unsafe.,miscellaneous,urgent,2025-02-26 14:10:21.288158,True
+"Fire damage in living room, extremely unsafe.",miscellaneous,urgent,2025-02-26 14:10:21.288158,True
 Mice chewed through electrical wiring in hallway.,pest,urgent,2025-02-14 22:20:08.093597,True
-Window shattered in laundry room, unable to stay in apartment.,structural,urgent,2025-02-01 16:39:23.141918,False
+"Window shattered in laundry room, unable to stay in apartment.",structural,urgent,2025-02-01 16:39:23.141918,False
 Low water pressure in living room.,plumbing,semi-urgent,2025-02-24 07:31:33.703932,False
 Minor cobwebs in kitchen windows.,pest,non-urgent,2025-02-04 18:37:15.229577,True
-Door to balcony won't lock, emergency situation.,structural,urgent,2025-02-19 14:49:56.622318,True
+"Door to balcony won't lock, emergency situation.",structural,urgent,2025-02-19 14:49:56.622318,True
 Refrigerator making loud grinding noise and not cooling.,appliance,urgent,2025-02-22 23:08:33.377274,True
-Door to hallway won't lock, children in home.,structural,urgent,2025-02-25 06:16:36.420131,False
+"Door to hallway won't lock, children in home.",structural,urgent,2025-02-25 06:16:36.420131,False
 Small hole in kitchen wall.,structural,semi-urgent,2025-02-28 15:25:13.240304,False
 Package delivery shelf damaged.,miscellaneous,non-urgent,2025-02-18 02:08:03.693332,False
 Refrigerator making loud grinding noise and not cooling.,appliance,urgent,2025-02-17 10:29:17.155965,False
 Sink in closet drains slowly.,plumbing,non-urgent,2025-02-28 03:12:17.458035,False
 Furnace cycles on and off repeatedly.,hvac,semi-urgent,2025-02-12 14:04:57.377578,False
 Neighbor's sewage leaking into my apartment.,miscellaneous,urgent,2025-02-21 04:01:59.819231,True
-Large crack in bathroom wall, emergency situation.,structural,urgent,2025-02-25 14:01:19.944385,True
+"Large crack in bathroom wall, emergency situation.",structural,urgent,2025-02-25 14:01:19.944385,True
 Small wasp nest forming outside hallway window.,pest,semi-urgent,2025-02-16 09:35:52.549203,False
 Flickering lights in living room.,electrical,semi-urgent,2025-02-16 01:29:15.519286,True
 Small chip in laundry room countertop.,structural,non-urgent,2025-02-08 11:17:36.105845,False
@@ -67,22 +67,22 @@ Mailbox broken into.,miscellaneous,semi-urgent,2025-02-26 18:23:31.138066,True
 Range hood fan not working.,appliance,semi-urgent,2025-02-12 01:54:17.638517,True
 Weak airflow from vents in dining room.,hvac,semi-urgent,2025-02-09 11:01:32.443245,True
 Curtain rod loose in living room.,structural,non-urgent,2025-02-12 07:20:13.409974,False
-Clogged hallway toilet, recurring problem.,plumbing,semi-urgent,2025-02-24 06:15:03.650169,False
-Break-in attempt, hallway window damaged.,miscellaneous,urgent,2025-02-01 05:21:19.016701,True
+"Clogged hallway toilet, recurring problem.",plumbing,semi-urgent,2025-02-24 06:15:03.650169,False
+"Break-in attempt, hallway window damaged.",miscellaneous,urgent,2025-02-01 05:21:19.016701,True
 Single cockroach spotted in entryway.,pest,non-urgent,2025-02-23 00:28:07.936465,False
 Living room door squeaks when opening.,structural,non-urgent,2025-02-01 20:01:25.403467,False
 AC not cooling balcony properly.,hvac,semi-urgent,2025-02-27 07:52:33.204301,False
 Baseboard separating from wall in closet.,structural,non-urgent,2025-02-20 00:38:09.552419,False
 Half of outlets not working in kitchen.,electrical,semi-urgent,2025-02-06 06:39:31.719151,True
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-11 10:08:42.016000,False
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-11 10:08:42.016000,False
 Ice maker leaking water onto floor.,appliance,semi-urgent,2025-02-01 10:34:18.274678,False
 Security camera not working at closet entrance.,miscellaneous,semi-urgent,2025-02-01 21:39:31.740440,False
 Basement sink not closing properly.,plumbing,semi-urgent,2025-02-03 07:02:27.476391,True
 Single cockroach spotted in bathroom.,pest,non-urgent,2025-02-27 12:27:24.237087,False
 AC unit sparking with electrical smell.,hvac,urgent,2025-02-11 11:53:35.189543,True
 AC leaking heavily into electrical outlet in closet.,hvac,urgent,2025-02-23 01:49:32.779719,True
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-13 23:22:07.619414,True
-No heat in apartment, need immediate attention.,hvac,urgent,2025-02-18 17:29:29.099844,True
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-13 23:22:07.619414,True
+"No heat in apartment, need immediate attention.",hvac,urgent,2025-02-18 17:29:29.099844,True
 Laundry room toilet overflowing onto floor.,plumbing,urgent,2025-02-24 00:36:22.134713,False
 Recycle bin missing lid.,miscellaneous,non-urgent,2025-02-23 23:00:53.408108,True
 Loose tiles in bathroom floor.,structural,semi-urgent,2025-02-16 18:19:53.664536,False
@@ -93,7 +93,7 @@ Community room blinds damaged.,miscellaneous,non-urgent,2025-02-22 10:41:51.8214
 Fruit flies in laundry room.,pest,non-urgent,2025-02-28 15:57:05.147391,False
 Loose tiles in living room floor.,structural,semi-urgent,2025-02-23 09:59:52.601684,False
 Security camera not working at bathroom entrance.,miscellaneous,semi-urgent,2025-02-27 02:47:28.748621,True
-Door to entryway won't lock, water damage spreading rapidly.,structural,urgent,2025-02-16 10:43:44.723109,False
+"Door to entryway won't lock, water damage spreading rapidly.",structural,urgent,2025-02-16 10:43:44.723109,False
 Stove burner not lighting.,appliance,semi-urgent,2025-02-03 05:06:03.275617,False
 Entire ceiling water damaged and sagging dangerously.,miscellaneous,urgent,2025-02-04 05:56:34.622086,False
 Heat working intermittently in dining room.,hvac,semi-urgent,2025-02-27 23:49:31.178183,True
@@ -107,11 +107,11 @@ Small hole in bedroom wall.,structural,semi-urgent,2025-02-03 23:55:41.330239,Tr
 Motion sensor light staying on in entryway.,electrical,non-urgent,2025-02-09 09:05:07.422210,False
 Window in hallway won't close properly.,structural,semi-urgent,2025-02-11 22:21:47.925535,True
 Hot water not working in living room.,plumbing,semi-urgent,2025-02-08 06:49:29.894477,True
-Bathroom pipe burst, water everywhere.,plumbing,urgent,2025-02-07 16:28:38.133641,False
+"Bathroom pipe burst, water everywhere.",plumbing,urgent,2025-02-07 16:28:38.133641,False
 Stairs collapsed in living room.,structural,urgent,2025-02-08 19:08:11.918506,True
 Heat not working and temperature below freezing inside.,hvac,urgent,2025-02-03 09:21:53.367892,True
 Buzzing sound from office outlet.,electrical,semi-urgent,2025-02-19 22:11:00.584537,False
-Window shattered in office, getting worse quickly.,structural,urgent,2025-02-11 01:14:02.558289,True
+"Window shattered in office, getting worse quickly.",structural,urgent,2025-02-11 01:14:02.558289,True
 Dining room toilet overflowing onto floor.,plumbing,urgent,2025-02-26 16:32:22.541501,True
 Oven clock reset needed.,appliance,non-urgent,2025-02-28 09:19:55.298289,False
 Vent cover loose in office.,hvac,non-urgent,2025-02-24 22:45:24.868933,False
@@ -136,13 +136,13 @@ Buzzing sound from hallway outlet.,electrical,semi-urgent,2025-02-28 05:47:44.41
 Gas stove burner won't turn off.,appliance,urgent,2025-02-08 01:37:29.848106,False
 Slight discoloration on balcony ceiling.,structural,non-urgent,2025-02-25 18:34:39.333764,True
 Uneven heating in different rooms.,hvac,non-urgent,2025-02-09 15:36:10.123925,False
-Exposed wires in kitchen, unable to stay in apartment.,electrical,urgent,2025-02-17 10:20:59.755312,False
+"Exposed wires in kitchen, unable to stay in apartment.",electrical,urgent,2025-02-17 10:20:59.755312,False
 Weak airflow from vents in entryway.,hvac,semi-urgent,2025-02-05 22:04:00.689003,False
 Laundry room faucet stopped working.,plumbing,semi-urgent,2025-02-12 15:24:00.611368,False
-Office floor smoking, water damage spreading rapidly.,structural,urgent,2025-02-28 04:06:32.187784,True
+"Office floor smoking, water damage spreading rapidly.",structural,urgent,2025-02-28 04:06:32.187784,True
 Kitchen door squeaks when opening.,structural,non-urgent,2025-02-06 07:36:40.730596,False
 Thermostat in entryway running constantly.,hvac,semi-urgent,2025-02-05 22:01:48.282779,False
-Suspicious gas smell in bedroom, caused injury.,miscellaneous,urgent,2025-02-04 08:14:14.609668,True
+"Suspicious gas smell in bedroom, caused injury.",miscellaneous,urgent,2025-02-04 08:14:14.609668,True
 Oven not heating to correct temperature.,appliance,semi-urgent,2025-02-14 19:22:44.947872,True
 Multiple scorpions spotted in basement.,pest,urgent,2025-02-13 14:45:05.054806,False
 Dishwasher leaking all over basement floor.,appliance,urgent,2025-02-19 03:26:08.175908,False
@@ -152,12 +152,12 @@ Small hole in entryway wall.,structural,semi-urgent,2025-02-04 21:49:53.529366,T
 Furnace cycles on and off repeatedly.,hvac,semi-urgent,2025-02-04 00:33:01.150398,True
 AC unit failed completely with electrical smell.,hvac,urgent,2025-02-11 10:25:06.909555,False
 Dimmer switch not dimming smoothly in bedroom.,electrical,non-urgent,2025-02-16 17:40:33.431186,False
-HVAC system completely failed, caused injury.,hvac,urgent,2025-02-06 22:57:37.505943,True
+"HVAC system completely failed, caused injury.",hvac,urgent,2025-02-06 22:57:37.505943,True
 Loose doorknob in bathroom.,structural,non-urgent,2025-02-08 10:12:52.578164,False
 AC unit vibrating slightly in hallway.,hvac,non-urgent,2025-02-28 09:10:42.319144,False
 Single rat spotted in laundry room.,pest,non-urgent,2025-02-06 02:16:45.037984,False
 Minor dent in kitchen wall.,structural,non-urgent,2025-02-17 18:29:26.139782,False
-Sewage backing up in basement, safety hazard.,plumbing,urgent,2025-02-18 15:22:29.262506,True
+"Sewage backing up in basement, safety hazard.",plumbing,urgent,2025-02-18 15:22:29.262506,True
 Spider webs in entryway corner.,pest,non-urgent,2025-02-02 20:17:33.891962,False
 Silverfish in laundry room bathroom.,pest,semi-urgent,2025-02-02 16:15:41.549363,True
 Multiple scorpions spotted in bedroom.,pest,urgent,2025-02-03 18:35:01.795449,True
@@ -180,25 +180,25 @@ Carbon monoxide detector alarming in basement.,miscellaneous,urgent,2025-02-04 1
 Dishwasher rack missing wheel.,appliance,non-urgent,2025-02-03 06:10:28.368876,False
 One outlet not working in entryway.,electrical,non-urgent,2025-02-12 20:43:28.289559,True
 AC leaking heavily into electrical outlet in dining room.,hvac,urgent,2025-02-04 02:31:04.426019,True
-Multiple circuit breakers tripping, affecting multiple units.,electrical,urgent,2025-02-18 03:58:53.785412,True
+"Multiple circuit breakers tripping, affecting multiple units.",electrical,urgent,2025-02-18 03:58:53.785412,True
 Sink in bedroom drains slowly.,plumbing,non-urgent,2025-02-26 09:24:22.057065,False
 Laundry room sink running constantly.,plumbing,semi-urgent,2025-02-13 04:52:53.957416,True
-Break-in attempt, laundry room window damaged.,miscellaneous,urgent,2025-02-09 13:18:07.659618,True
+"Break-in attempt, laundry room window damaged.",miscellaneous,urgent,2025-02-09 13:18:07.659618,True
 Freezer door not sealing perfectly.,appliance,non-urgent,2025-02-09 18:36:26.909632,False
 Outlet cover missing in dining room.,electrical,non-urgent,2025-02-12 18:28:59.182182,False
 Cabinet doors in office won't stay closed.,structural,semi-urgent,2025-02-13 00:53:04.982567,True
-Door to bathroom won't lock, elderly resident needs assistance.,structural,urgent,2025-02-16 00:20:42.462619,False
+"Door to bathroom won't lock, elderly resident needs assistance.",structural,urgent,2025-02-16 00:20:42.462619,False
 Minor ceiling damage in entryway.,structural,semi-urgent,2025-02-10 03:11:41.357248,False
 Refrigerator ice maker working intermittently.,appliance,non-urgent,2025-02-10 16:25:02.952151,False
 Occasional mouse sightings in hallway.,pest,semi-urgent,2025-02-08 00:24:24.112884,False
 Oven clock reset needed.,appliance,non-urgent,2025-02-07 10:24:10.880020,False
 Refrigerator making loud grinding noise and not cooling.,appliance,urgent,2025-02-19 01:27:38.843460,True
 Evidence of beetle in kitchen cabinets.,pest,semi-urgent,2025-02-08 19:16:46.003943,True
-Fire damage in closet, affecting multiple units.,miscellaneous,urgent,2025-02-17 12:11:36.632275,False
+"Fire damage in closet, affecting multiple units.",miscellaneous,urgent,2025-02-17 12:11:36.632275,False
 Water gushing from under living room sink.,plumbing,urgent,2025-02-12 09:07:10.512775,True
 Minor scratch on entryway floor.,structural,non-urgent,2025-02-05 06:42:28.605636,False
 Small chip in kitchen countertop.,structural,non-urgent,2025-02-19 07:07:18.863757,True
-Door to laundry room won't lock, children in home.,structural,urgent,2025-02-13 01:39:58.589426,True
+"Door to laundry room won't lock, children in home.",structural,urgent,2025-02-13 01:39:58.589426,True
 Small crack in closet wall.,structural,semi-urgent,2025-02-23 06:59:38.283863,False
 Low water pressure in basement.,plumbing,semi-urgent,2025-02-14 02:57:53.660994,True
 Weak airflow from vents in basement.,hvac,semi-urgent,2025-02-09 09:01:53.660326,False
@@ -216,39 +216,39 @@ Main electrical panel smoking.,electrical,urgent,2025-02-28 22:44:17.845124,True
 Major water leak coming through bathroom ceiling.,plumbing,urgent,2025-02-09 19:21:19.592109,True
 One outlet not working in entryway.,electrical,non-urgent,2025-02-25 10:44:47.460358,False
 Ceiling fan wobbling slightly in bedroom.,electrical,non-urgent,2025-02-09 06:15:22.389103,False
-Window shattered in laundry room, health risk.,structural,urgent,2025-02-10 16:18:05.914889,True
-Multiple circuit breakers tripping, children in home.,electrical,urgent,2025-02-04 17:45:29.464322,True
+"Window shattered in laundry room, health risk.",structural,urgent,2025-02-10 16:18:05.914889,True
+"Multiple circuit breakers tripping, children in home.",electrical,urgent,2025-02-04 17:45:29.464322,True
 Fruit flies in balcony.,pest,non-urgent,2025-02-03 20:56:44.755909,False
 Dishwasher leaking all over basement floor.,appliance,urgent,2025-02-05 07:38:11.201562,True
 Oven not heating to correct temperature.,appliance,semi-urgent,2025-02-02 06:01:37.196349,True
 Door to kitchen cracked.,structural,semi-urgent,2025-02-25 09:31:43.817037,False
 Paint peeling in balcony.,structural,non-urgent,2025-02-16 11:46:03.534898,False
 Paint peeling in living room.,structural,non-urgent,2025-02-22 12:18:23.438598,False
-Bed bugs found throughout apartment, elderly resident needs assistance.,pest,urgent,2025-02-18 04:53:44.276455,False
+"Bed bugs found throughout apartment, elderly resident needs assistance.",pest,urgent,2025-02-18 04:53:44.276455,False
 AC unit completely broken with electrical smell.,hvac,urgent,2025-02-05 20:35:28.661593,True
 Heat not working and temperature below freezing inside.,hvac,urgent,2025-02-08 14:51:10.927004,False
-Strange odor in kitchen, inconvenient but manageable.,miscellaneous,semi-urgent,2025-02-21 10:31:54.576724,False
+"Strange odor in kitchen, inconvenient but manageable.",miscellaneous,semi-urgent,2025-02-21 10:31:54.576724,False
 Found a snake in bathroom.,pest,urgent,2025-02-05 08:07:23.207442,False
 Neighbor's sewage leaking into my apartment.,miscellaneous,urgent,2025-02-20 17:07:26.156384,True
 Slow drain in dining room sink.,plumbing,semi-urgent,2025-02-24 19:50:24.250654,True
 GFI outlet in kitchen won't reset.,electrical,semi-urgent,2025-02-05 01:00:15.607229,False
 Ice maker leaking water onto floor.,appliance,semi-urgent,2025-02-20 00:39:39.955920,True
-Hallway floor failed completely, health risk.,structural,urgent,2025-02-27 12:16:55.379094,False
+"Hallway floor failed completely, health risk.",structural,urgent,2025-02-27 12:16:55.379094,False
 Dryer not heating clothes.,appliance,semi-urgent,2025-02-23 18:49:54.770970,False
 Weak airflow from vents in closet.,hvac,semi-urgent,2025-02-03 15:53:51.567290,True
 Part of the hallway ceiling collapsed.,structural,urgent,2025-02-02 06:47:38.303115,False
 Cabinet doors in dining room won't stay closed.,structural,semi-urgent,2025-02-11 18:33:48.695636,False
 Dryer lint trap damaged.,appliance,non-urgent,2025-02-11 15:51:06.530492,True
 One vent not working in hallway.,hvac,non-urgent,2025-02-08 15:08:17.894316,False
-Power outage in entire unit, elderly resident needs assistance.,electrical,urgent,2025-02-12 00:42:11.467929,False
+"Power outage in entire unit, elderly resident needs assistance.",electrical,urgent,2025-02-12 00:42:11.467929,False
 Fitness room equipment needs maintenance.,miscellaneous,non-urgent,2025-02-03 23:00:07.123391,True
-Bed bugs found throughout apartment, water damage spreading rapidly.,pest,urgent,2025-02-07 15:41:38.998650,False
+"Bed bugs found throughout apartment, water damage spreading rapidly.",pest,urgent,2025-02-07 15:41:38.998650,False
 Hallway door squeaks when opening.,structural,non-urgent,2025-02-26 04:28:00.950354,True
 Flea infestation causing severe allergic reactions.,pest,urgent,2025-02-23 05:29:59.929721,True
 Unusual smell when heat turns on in living room.,hvac,semi-urgent,2025-02-04 01:17:03.351947,False
-Refrigerator completely stopped working, health risk.,appliance,urgent,2025-02-20 16:55:34.867324,True
+"Refrigerator completely stopped working, health risk.",appliance,urgent,2025-02-20 16:55:34.867324,True
 Garage door opener malfunctioning.,miscellaneous,semi-urgent,2025-02-08 22:34:28.085875,True
-No heat in apartment, extremely unsafe.,hvac,urgent,2025-02-26 07:06:02.587488,False
+"No heat in apartment, extremely unsafe.",hvac,urgent,2025-02-26 07:06:02.587488,False
 Minor stain under dining room sink pipe.,plumbing,non-urgent,2025-02-10 07:06:01.255756,False
 Package delivery shelf damaged.,miscellaneous,non-urgent,2025-02-13 04:18:30.144527,False
 Flies coming from entryway drain.,pest,semi-urgent,2025-02-12 14:48:38.179660,False
@@ -259,28 +259,28 @@ Vent cover loose in balcony.,hvac,non-urgent,2025-02-26 21:01:53.057732,False
 Strong gas smell from hallway heater.,hvac,urgent,2025-02-16 13:48:36.883526,True
 Recurring spiders in balcony.,pest,semi-urgent,2025-02-03 01:33:37.650924,False
 Slow drain in dining room sink.,plumbing,semi-urgent,2025-02-19 03:15:38.631396,False
-Mold growing in living room, affecting daily activities.,miscellaneous,semi-urgent,2025-02-08 14:45:15.373181,True
+"Mold growing in living room, affecting daily activities.",miscellaneous,semi-urgent,2025-02-08 14:45:15.373181,True
 Freezer door not sealing perfectly.,appliance,non-urgent,2025-02-01 11:31:11.354977,False
 Bathroom toilet overflowing onto floor.,plumbing,urgent,2025-02-25 03:04:39.334304,True
 Bedroom door squeaks when opening.,structural,non-urgent,2025-02-26 22:06:46.913796,False
 Small anthill near living room entrance.,pest,non-urgent,2025-02-03 05:14:22.906632,True
 Balcony railing is loose and unstable.,structural,urgent,2025-02-12 20:38:34.085410,True
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-25 15:26:37.716574,False
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-25 15:26:37.716574,False
 Low water pressure in kitchen.,plumbing,semi-urgent,2025-02-23 01:20:45.160308,True
 Smoke coming from kitchen vent.,hvac,urgent,2025-02-11 06:50:56.364261,False
 Minor ceiling damage in entryway.,structural,semi-urgent,2025-02-04 11:44:53.439030,False
 Oven clock reset needed.,appliance,non-urgent,2025-02-11 21:02:49.952651,True
 Water pressure fluctuates in bedroom.,plumbing,non-urgent,2025-02-01 18:12:45.243404,False
 Minor stain under bedroom sink pipe.,plumbing,non-urgent,2025-02-21 22:36:20.989285,False
-Refrigerator completely stopped working, getting worse quickly.,appliance,urgent,2025-02-01 16:30:21.945637,True
+"Refrigerator completely stopped working, getting worse quickly.",appliance,urgent,2025-02-01 16:30:21.945637,True
 AC leaking heavily into electrical outlet in kitchen.,hvac,urgent,2025-02-18 23:13:30.805426,False
 Living room door squeaks when opening.,structural,non-urgent,2025-02-21 18:19:18.227468,True
 Garage door opener malfunctioning.,miscellaneous,semi-urgent,2025-02-16 13:36:02.783984,False
 Washing machine making slight noise during spin cycle.,appliance,non-urgent,2025-02-12 02:35:03.620185,False
-Exposed wires in kitchen, safety hazard.,electrical,urgent,2025-02-07 13:28:33.348178,True
+"Exposed wires in kitchen, safety hazard.",electrical,urgent,2025-02-07 13:28:33.348178,True
 Community room blinds damaged.,miscellaneous,non-urgent,2025-02-08 20:53:20.596372,False
 AC unit vibrating slightly in office.,hvac,non-urgent,2025-02-02 06:31:13.638195,False
-Bathroom pipe burst, water everywhere.,plumbing,urgent,2025-02-15 22:55:51.350441,False
+"Bathroom pipe burst, water everywhere.",plumbing,urgent,2025-02-15 22:55:51.350441,False
 Strange burning smell from heating system in closet.,hvac,urgent,2025-02-18 08:20:07.161207,True
 Threatening graffiti on bathroom door.,miscellaneous,urgent,2025-02-24 05:19:37.634568,False
 Minor cobwebs in living room windows.,pest,non-urgent,2025-02-21 23:00:58.796040,False
@@ -312,14 +312,14 @@ Multiple scorpions spotted in kitchen.,pest,urgent,2025-02-06 08:25:17.228528,Fa
 Dripping faucet in bedroom.,plumbing,semi-urgent,2025-02-01 09:30:27.715918,True
 Major water leak coming through bedroom ceiling.,plumbing,urgent,2025-02-08 04:11:44.494480,True
 Washing machine making slight noise during spin cycle.,appliance,non-urgent,2025-02-06 14:58:19.720617,False
-Break-in attempt, living room window damaged.,miscellaneous,urgent,2025-02-28 19:56:21.435946,True
+"Break-in attempt, living room window damaged.",miscellaneous,urgent,2025-02-28 19:56:21.435946,True
 Water pressure fluctuates in dining room.,plumbing,non-urgent,2025-02-20 18:02:11.109705,False
 Burning smell from closet electrical panel.,electrical,urgent,2025-02-09 01:17:15.034803,True
 Carbon monoxide alarm going off near balcony appliance.,appliance,urgent,2025-02-14 16:08:54.356062,False
 Community room blinds damaged.,miscellaneous,non-urgent,2025-02-10 23:03:32.518373,False
 Recurring spiders in balcony.,pest,semi-urgent,2025-02-10 20:44:41.500060,True
 Threatening graffiti on closet door.,miscellaneous,urgent,2025-02-28 09:00:43.478526,True
-Sewage backing up in hallway, unable to stay in apartment.,plumbing,urgent,2025-02-12 07:45:26.806097,True
+"Sewage backing up in hallway, unable to stay in apartment.",plumbing,urgent,2025-02-12 07:45:26.806097,True
 Sink in kitchen drains slowly.,plumbing,non-urgent,2025-02-20 22:21:28.437896,False
 Black widow spiders found in laundry room with children in home.,pest,urgent,2025-02-11 18:08:54.893057,True
 Minor cobwebs in living room windows.,pest,non-urgent,2025-02-28 00:52:50.419103,False
@@ -349,7 +349,7 @@ Flea infestation causing severe allergic reactions.,pest,urgent,2025-02-26 03:54
 Laundry room shower drain partially clogged.,plumbing,semi-urgent,2025-02-06 01:57:38.363473,False
 Flies coming from bedroom drain.,pest,semi-urgent,2025-02-17 20:57:41.639184,True
 Slight discoloration on living room ceiling.,structural,non-urgent,2025-02-09 20:36:01.615017,False
-Multiple circuit breakers tripping, water damage spreading rapidly.,electrical,urgent,2025-02-19 03:38:51.243120,False
+"Multiple circuit breakers tripping, water damage spreading rapidly.",electrical,urgent,2025-02-19 03:38:51.243120,False
 Heat blowing cold air in bathroom.,hvac,semi-urgent,2025-02-09 06:20:05.898697,False
 Strong gas smell from kitchen heater.,hvac,urgent,2025-02-09 02:30:30.210394,False
 Weatherstripping coming off balcony window.,structural,non-urgent,2025-02-19 08:27:16.563643,False
@@ -361,25 +361,25 @@ Recycle bin missing lid.,miscellaneous,non-urgent,2025-02-27 17:08:27.948449,Fal
 Toilet in closet running continuously.,plumbing,semi-urgent,2025-02-13 12:04:47.006703,False
 Ceiling light fixture sparking in kitchen.,electrical,urgent,2025-02-27 22:33:07.272566,False
 Garbage chute blocked on our floor.,miscellaneous,semi-urgent,2025-02-08 18:58:03.305825,False
-Break-in attempt, entryway window damaged.,miscellaneous,urgent,2025-02-03 14:30:49.950489,False
+"Break-in attempt, entryway window damaged.",miscellaneous,urgent,2025-02-03 14:30:49.950489,False
 Balcony window not working properly.,structural,semi-urgent,2025-02-27 21:00:24.623478,False
 Hallway faucet not closing properly.,plumbing,semi-urgent,2025-02-22 06:42:48.344848,False
 Minor cobwebs in entryway windows.,pest,non-urgent,2025-02-10 00:03:57.223234,False
 Small patch of carpet worn in entryway hallway.,miscellaneous,non-urgent,2025-02-06 18:03:34.075909,False
 Oven temperature slightly off.,appliance,non-urgent,2025-02-01 11:14:23.879554,False
-Suspicious gas smell in living room, children in home.,miscellaneous,urgent,2025-02-09 06:36:15.034823,False
+"Suspicious gas smell in living room, children in home.",miscellaneous,urgent,2025-02-09 06:36:15.034823,False
 Buzzing sound from basement outlet.,electrical,semi-urgent,2025-02-26 20:19:37.145835,False
 Flickering lights in living room.,electrical,semi-urgent,2025-02-21 22:12:40.551179,False
 Some bathroom floor boards are warped.,structural,semi-urgent,2025-02-07 00:41:26.837977,True
 Garbage chute blocked on our floor.,miscellaneous,semi-urgent,2025-02-04 09:08:06.193588,True
-Door to bedroom won't lock, getting worse quickly.,structural,urgent,2025-02-13 13:28:05.446304,True
+"Door to bedroom won't lock, getting worse quickly.",structural,urgent,2025-02-13 13:28:05.446304,True
 Flea infestation causing severe allergic reactions.,pest,urgent,2025-02-14 20:34:07.562274,True
 Washing machine violently shaking and moving across floor.,appliance,urgent,2025-02-16 18:58:47.112572,True
 Hot water tank leaking heavily in office.,plumbing,urgent,2025-02-19 19:46:22.936465,False
-Large crack in living room wall, health risk.,structural,urgent,2025-02-12 05:34:57.451600,False
-Door to kitchen won't lock, safety hazard.,structural,urgent,2025-02-14 11:28:21.803397,True
+"Large crack in living room wall, health risk.",structural,urgent,2025-02-12 05:34:57.451600,False
+"Door to kitchen won't lock, safety hazard.",structural,urgent,2025-02-14 11:28:21.803397,True
 Smoke detector leaking steadily in closet.,miscellaneous,semi-urgent,2025-02-20 10:00:19.689114,False
-Mold growing in living room, need to fix this week.,miscellaneous,semi-urgent,2025-02-07 22:30:44.550526,False
+"Mold growing in living room, need to fix this week.",miscellaneous,semi-urgent,2025-02-07 22:30:44.550526,False
 Baseboard separating from wall in laundry room.,structural,non-urgent,2025-02-16 17:09:23.495016,False
 Motion sensor light staying on in basement.,electrical,non-urgent,2025-02-01 07:41:05.316727,False
 Light fixture in office making strange noise.,electrical,semi-urgent,2025-02-21 07:25:03.609681,False
@@ -388,7 +388,7 @@ Intercom system not functioning properly.,miscellaneous,semi-urgent,2025-02-14 2
 Heat working intermittently in dining room.,hvac,semi-urgent,2025-02-02 04:25:37.588870,False
 Oven temperature slightly off.,appliance,non-urgent,2025-02-20 04:13:00.239741,False
 AC unit vibrating slightly in kitchen.,hvac,non-urgent,2025-02-09 02:33:14.895838,False
-Severe mold in kitchen, causing breathing difficulties.,miscellaneous,urgent,2025-02-07 16:02:54.806497,True
+"Severe mold in kitchen, causing breathing difficulties.",miscellaneous,urgent,2025-02-07 16:02:54.806497,True
 Air conditioner making strange noise in entryway.,hvac,semi-urgent,2025-02-12 01:09:14.381773,True
 Baseboard separating from wall in bedroom.,structural,non-urgent,2025-02-08 08:59:50.528188,False
 Dryer lint trap damaged.,appliance,non-urgent,2025-02-13 19:40:58.404464,False
@@ -404,26 +404,26 @@ Occasional mouse sightings in laundry room.,pest,semi-urgent,2025-02-21 03:04:48
 Wasps nest inside closet window.,pest,urgent,2025-02-26 23:09:42.398380,False
 Slow drain in closet sink.,plumbing,semi-urgent,2025-02-19 18:19:46.316100,True
 Key fob not working for building access.,miscellaneous,semi-urgent,2025-02-22 04:33:36.520918,False
-Lightning struck building, power surging in outlets.,electrical,urgent,2025-02-08 16:54:12.089340,True
+"Lightning struck building, power surging in outlets.",electrical,urgent,2025-02-08 16:54:12.089340,True
 Dishwasher leaking all over living room floor.,appliance,urgent,2025-02-03 16:43:22.466982,True
 Minor leak under balcony sink.,plumbing,semi-urgent,2025-02-23 17:15:59.605676,False
 Dryer lint trap damaged.,appliance,non-urgent,2025-02-09 02:05:48.796545,True
 Community room blinds damaged.,miscellaneous,non-urgent,2025-02-04 04:44:48.616761,True
 Motion sensor light staying on in dining room.,electrical,non-urgent,2025-02-20 17:45:06.892975,False
 Outlet cover missing in entryway.,electrical,non-urgent,2025-02-26 02:48:44.952265,False
-Power outage in entire unit, getting worse quickly.,electrical,urgent,2025-02-08 11:25:12.408798,True
-Suspicious gas smell in living room, elderly resident needs assistance.,miscellaneous,urgent,2025-02-27 02:34:15.178318,True
+"Power outage in entire unit, getting worse quickly.",electrical,urgent,2025-02-08 11:25:12.408798,True
+"Suspicious gas smell in living room, elderly resident needs assistance.",miscellaneous,urgent,2025-02-27 02:34:15.178318,True
 Washing machine making strange noise mid-cycle.,appliance,semi-urgent,2025-02-18 04:40:46.888783,True
 Fallen tree branch crashed through living room window.,miscellaneous,urgent,2025-02-09 16:15:26.427777,True
 Minor dent in hallway wall.,structural,non-urgent,2025-02-08 09:23:49.590840,False
-Washing machine overflowing, emergency situation.,appliance,urgent,2025-02-09 06:29:41.744342,False
+"Washing machine overflowing, emergency situation.",appliance,urgent,2025-02-09 06:29:41.744342,False
 Toilet in dining room running continuously.,plumbing,semi-urgent,2025-02-15 00:19:01.790412,False
-Bathroom fan not working, causing humidity issues.,electrical,semi-urgent,2025-02-01 04:35:23.420779,False
+"Bathroom fan not working, causing humidity issues.",electrical,semi-urgent,2025-02-01 04:35:23.420779,False
 Low water pressure in basement.,plumbing,semi-urgent,2025-02-09 01:36:23.060800,True
 Few houseflies in basement.,pest,non-urgent,2025-02-11 23:23:44.363746,False
 Major water leak coming through basement ceiling.,plumbing,urgent,2025-02-12 12:02:26.700378,False
 Dimming lights when appliances run in living room.,electrical,semi-urgent,2025-02-22 15:08:43.671099,False
-Ants in office, need to resolve soon.,pest,semi-urgent,2025-02-20 17:06:47.568834,False
+"Ants in office, need to resolve soon.",pest,semi-urgent,2025-02-20 17:06:47.568834,False
 Few houseflies in kitchen.,pest,non-urgent,2025-02-17 22:39:11.440760,False
 Garage door opener malfunctioning.,miscellaneous,semi-urgent,2025-02-17 14:57:08.845078,True
 Bathroom fan making slight noise.,electrical,non-urgent,2025-02-08 07:46:09.627409,False
@@ -435,12 +435,12 @@ Ceiling fan making grinding noise in bathroom.,electrical,semi-urgent,2025-02-11
 Stove burner heating unevenly.,appliance,non-urgent,2025-02-20 20:01:20.862032,False
 Basement shower drain partially clogged.,plumbing,semi-urgent,2025-02-25 23:02:16.708295,False
 Light fixture shade cracked in entryway.,electrical,non-urgent,2025-02-27 18:53:32.586036,False
-Fire damage in laundry room, children in home.,miscellaneous,urgent,2025-02-08 12:34:40.265613,True
+"Fire damage in laundry room, children in home.",miscellaneous,urgent,2025-02-08 12:34:40.265613,True
 Refrigerator ice maker working intermittently.,appliance,non-urgent,2025-02-28 16:15:24.887308,True
-Window shattered in entryway, affecting multiple units.,structural,urgent,2025-02-19 16:10:44.640076,False
+"Window shattered in entryway, affecting multiple units.",structural,urgent,2025-02-19 16:10:44.640076,False
 Dining room faucet handle loose.,plumbing,non-urgent,2025-02-12 07:42:02.481661,False
 Doorbell not functioning.,electrical,semi-urgent,2025-02-05 04:05:17.106803,False
-Strange odor in basement, need to fix this week.,miscellaneous,semi-urgent,2025-02-28 05:05:17.285211,True
+"Strange odor in basement, need to fix this week.",miscellaneous,semi-urgent,2025-02-28 05:05:17.285211,True
 Minor leak under hallway sink.,plumbing,semi-urgent,2025-02-22 07:32:46.148108,True
 Bedroom floor has collapsed partially.,structural,urgent,2025-02-15 01:54:55.143509,True
 Kitchen toilet overflowing onto floor.,plumbing,urgent,2025-02-22 01:52:34.078882,False
@@ -448,37 +448,37 @@ Ceiling fan making grinding noise in bathroom.,electrical,semi-urgent,2025-02-18
 Security camera not working at basement entrance.,miscellaneous,semi-urgent,2025-02-22 20:54:54.351140,True
 Furnace making loud banging noise and not heating.,hvac,urgent,2025-02-17 07:52:53.147316,True
 Entire ceiling water damaged and sagging dangerously.,miscellaneous,urgent,2025-02-20 05:01:43.190011,True
-Power outage in entire unit, unable to stay in apartment.,electrical,urgent,2025-02-08 03:21:25.210858,True
+"Power outage in entire unit, unable to stay in apartment.",electrical,urgent,2025-02-08 03:21:25.210858,True
 Doorbell not functioning.,electrical,semi-urgent,2025-02-20 02:47:40.589912,True
 Dishwasher not draining properly.,appliance,semi-urgent,2025-02-08 13:16:58.709718,True
 Some office floor boards are warped.,structural,semi-urgent,2025-02-18 07:38:42.366400,False
 Recycle bin missing lid.,miscellaneous,non-urgent,2025-02-14 04:31:18.112168,True
 Some kitchen floor boards are warped.,structural,semi-urgent,2025-02-07 06:59:47.573049,True
-Power outage in entire unit, health risk.,electrical,urgent,2025-02-27 08:06:24.760330,False
+"Power outage in entire unit, health risk.",electrical,urgent,2025-02-27 08:06:24.760330,False
 Toilet seat loose in living room.,plumbing,non-urgent,2025-02-16 13:29:29.098952,False
 Air conditioner making strange noise in dining room.,hvac,semi-urgent,2025-02-17 17:26:49.778706,True
-Cockroach infestation in basement, children in home.,pest,urgent,2025-02-05 19:57:34.345988,True
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-03 12:01:49.661809,True
+"Cockroach infestation in basement, children in home.",pest,urgent,2025-02-05 19:57:34.345988,True
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-03 12:01:49.661809,True
 Stove burner not lighting.,appliance,semi-urgent,2025-02-16 03:15:28.092526,False
 Multiple scorpions spotted in balcony.,pest,urgent,2025-02-28 02:12:03.175448,False
 Small chip in kitchen countertop.,structural,non-urgent,2025-02-13 19:15:17.228738,False
 Shower curtain rod rusting in laundry room.,plumbing,non-urgent,2025-02-01 13:07:31.690208,False
 Outlet cover missing in balcony.,electrical,non-urgent,2025-02-02 10:37:57.361616,False
-Fire damage in hallway, elderly resident needs assistance.,miscellaneous,urgent,2025-02-01 19:43:38.613481,False
-Exposed wires in basement, health risk.,electrical,urgent,2025-02-22 02:54:36.179007,False
+"Fire damage in hallway, elderly resident needs assistance.",miscellaneous,urgent,2025-02-01 19:43:38.613481,False
+"Exposed wires in basement, health risk.",electrical,urgent,2025-02-22 02:54:36.179007,False
 Heat not working and temperature below freezing inside.,hvac,urgent,2025-02-25 11:03:50.081302,True
 Washing machine making slight noise during spin cycle.,appliance,non-urgent,2025-02-04 04:45:50.117583,False
 Thermostat display flickering in dining room.,hvac,non-urgent,2025-02-15 04:55:48.885556,True
-Multiple circuit breakers tripping, elderly resident needs assistance.,electrical,urgent,2025-02-17 08:07:38.928310,False
+"Multiple circuit breakers tripping, elderly resident needs assistance.",electrical,urgent,2025-02-17 08:07:38.928310,False
 Low water pressure in basement.,plumbing,semi-urgent,2025-02-02 12:38:29.293636,True
 Circuit breaker for kitchen not closing properly.,electrical,semi-urgent,2025-02-03 19:33:58.133092,False
 Oven clock reset needed.,appliance,non-urgent,2025-02-14 17:57:24.400341,False
-Power outage in entire unit, getting worse quickly.,electrical,urgent,2025-02-17 21:04:11.947369,True
-Break-in attempt, kitchen window damaged.,miscellaneous,urgent,2025-02-25 03:53:15.751940,True
+"Power outage in entire unit, getting worse quickly.",electrical,urgent,2025-02-17 21:04:11.947369,True
+"Break-in attempt, kitchen window damaged.",miscellaneous,urgent,2025-02-25 03:53:15.751940,True
 Slight delay when adjusting thermostat.,hvac,non-urgent,2025-02-13 00:21:48.315293,False
-Strange odor in living room, been ongoing for days.,miscellaneous,semi-urgent,2025-02-04 21:33:57.090335,True
+"Strange odor in living room, been ongoing for days.",miscellaneous,semi-urgent,2025-02-04 21:33:57.090335,True
 Single cockroach spotted in bathroom.,pest,non-urgent,2025-02-13 06:27:07.259922,False
-Fire damage in living room, children in home.,miscellaneous,urgent,2025-02-12 03:15:53.830606,False
+"Fire damage in living room, children in home.",miscellaneous,urgent,2025-02-12 03:15:53.830606,False
 Paint peeling in closet.,structural,non-urgent,2025-02-07 09:50:55.734454,False
 Toilet in bathroom occasionally runs.,plumbing,non-urgent,2025-02-11 12:12:22.220935,False
 Doorbell not functioning.,electrical,semi-urgent,2025-02-07 21:39:38.846149,True
@@ -489,12 +489,12 @@ Flies coming from closet drain.,pest,semi-urgent,2025-02-26 01:11:46.133158,Fals
 Bathroom fan making slight noise.,electrical,non-urgent,2025-02-26 14:57:53.015922,False
 Living room faucet handle loose.,plumbing,non-urgent,2025-02-22 08:11:28.341074,False
 Ceiling light fixture sparking in bedroom.,electrical,urgent,2025-02-04 07:26:49.433583,True
-Break-in attempt, kitchen window damaged.,miscellaneous,urgent,2025-02-01 09:16:09.041721,True
+"Break-in attempt, kitchen window damaged.",miscellaneous,urgent,2025-02-01 09:16:09.041721,True
 Dryer not heating clothes.,appliance,semi-urgent,2025-02-26 21:02:05.173620,True
 Bathroom fan making slight noise.,electrical,non-urgent,2025-02-20 18:16:50.735846,False
 One outlet not working in closet.,electrical,non-urgent,2025-02-06 09:34:09.141893,False
 Mailbox number faded.,miscellaneous,non-urgent,2025-02-24 20:49:39.844134,True
-Severe leak from ceiling in entryway, health risk.,plumbing,urgent,2025-02-08 17:48:27.621063,False
+"Severe leak from ceiling in entryway, health risk.",plumbing,urgent,2025-02-08 17:48:27.621063,False
 Microwave sparked and caught fire briefly.,appliance,urgent,2025-02-27 10:31:01.633369,True
 Minor cobwebs in hallway windows.,pest,non-urgent,2025-02-23 19:57:09.574917,False
 Light fixture in basement cracked.,electrical,semi-urgent,2025-02-12 02:04:38.723170,False
@@ -506,29 +506,29 @@ Part of the bedroom ceiling collapsed.,structural,urgent,2025-02-07 06:57:30.474
 Sink stopper in laundry room not working properly.,plumbing,non-urgent,2025-02-16 11:56:01.219288,False
 AC unit making loud banging noise with electrical smell.,hvac,urgent,2025-02-07 19:40:41.632450,False
 Multiple scorpions spotted in office.,pest,urgent,2025-02-26 06:21:09.450547,False
-Multiple circuit breakers tripping, elderly resident needs assistance.,electrical,urgent,2025-02-10 17:42:04.563197,False
-Main water pipe burst in laundry room, unable to stay in apartment.,plumbing,urgent,2025-02-13 19:03:19.940840,True
-Major crack in foundation, need immediate attention.,structural,urgent,2025-02-28 13:12:17.042378,True
+"Multiple circuit breakers tripping, elderly resident needs assistance.",electrical,urgent,2025-02-10 17:42:04.563197,False
+"Main water pipe burst in laundry room, unable to stay in apartment.",plumbing,urgent,2025-02-13 19:03:19.940840,True
+"Major crack in foundation, need immediate attention.",structural,urgent,2025-02-28 13:12:17.042378,True
 Single centipede spotted in living room.,pest,non-urgent,2025-02-28 14:00:31.671917,False
 Spider webs in basement corner.,pest,non-urgent,2025-02-11 09:27:15.957085,False
 Furnace making loud banging noise and not heating.,hvac,urgent,2025-02-09 10:33:13.419176,True
-HVAC system completely failed, health risk.,hvac,urgent,2025-02-18 13:58:53.041560,False
+"HVAC system completely failed, health risk.",hvac,urgent,2025-02-18 13:58:53.041560,False
 Dimming lights when appliances run in kitchen.,electrical,semi-urgent,2025-02-22 09:18:41.520004,False
-Sewage backing up in kitchen, health risk.,plumbing,urgent,2025-02-27 14:08:19.754175,False
-Clogged living room toilet, getting gradually worse.,plumbing,semi-urgent,2025-02-16 11:06:46.056531,False
+"Sewage backing up in kitchen, health risk.",plumbing,urgent,2025-02-27 14:08:19.754175,False
+"Clogged living room toilet, getting gradually worse.",plumbing,semi-urgent,2025-02-16 11:06:46.056531,False
 Slight noise from dining room AC unit.,hvac,non-urgent,2025-02-28 09:26:33.653773,True
 Light fixture in laundry room making strange noise.,electrical,semi-urgent,2025-02-05 22:07:47.865489,False
 Uneven heating in different rooms.,hvac,non-urgent,2025-02-02 18:42:39.542328,True
 Outlet cover missing in bedroom.,electrical,non-urgent,2025-02-22 16:32:06.374688,False
 Mailbox number faded.,miscellaneous,non-urgent,2025-02-18 18:36:45.612921,False
-Clogged office toilet, been ongoing for days.,plumbing,semi-urgent,2025-02-17 19:28:35.178153,False
+"Clogged office toilet, been ongoing for days.",plumbing,semi-urgent,2025-02-17 19:28:35.178153,False
 Doorbell not functioning.,electrical,semi-urgent,2025-02-15 02:51:34.471799,True
 Garbage disposal jammed in laundry room.,appliance,semi-urgent,2025-02-10 05:27:06.990481,False
-Refrigerator completely stopped working, emergency situation.,appliance,urgent,2025-02-11 20:36:04.306249,True
+"Refrigerator completely stopped working, emergency situation.",appliance,urgent,2025-02-11 20:36:04.306249,True
 Strong gas smell from hallway heater.,hvac,urgent,2025-02-21 12:08:44.018239,True
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-19 23:02:09.341765,False
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-19 23:02:09.341765,False
 Range hood fan not working.,appliance,semi-urgent,2025-02-03 03:05:03.266074,True
-Strange odor in bathroom, getting gradually worse.,miscellaneous,semi-urgent,2025-02-13 09:16:54.614563,False
+"Strange odor in bathroom, getting gradually worse.",miscellaneous,semi-urgent,2025-02-13 09:16:54.614563,False
 Refrigerator malfunctioning but still somewhat cool.,appliance,semi-urgent,2025-02-03 23:36:07.873576,True
 Found a snake in balcony.,pest,urgent,2025-02-18 13:27:14.546549,True
 Minor water stain on bathroom ceiling.,miscellaneous,non-urgent,2025-02-21 15:59:28.833455,False
@@ -544,7 +544,7 @@ Weak airflow from vents in balcony.,hvac,semi-urgent,2025-02-21 08:16:27.938429,
 Washing machine making slight noise during spin cycle.,appliance,non-urgent,2025-02-04 19:28:32.185518,False
 Black widow spiders found in bedroom with children in home.,pest,urgent,2025-02-24 06:39:49.129797,True
 Dimmer switch not dimming smoothly in dining room.,electrical,non-urgent,2025-02-20 20:16:22.630989,False
-Severe mold in dining room, causing breathing difficulties.,miscellaneous,urgent,2025-02-25 00:20:29.892896,True
+"Severe mold in dining room, causing breathing difficulties.",miscellaneous,urgent,2025-02-25 00:20:29.892896,True
 Single cockroach spotted in kitchen.,pest,non-urgent,2025-02-15 08:47:37.185203,False
 Uneven heating in different rooms.,hvac,non-urgent,2025-02-27 16:48:50.065032,False
 Heating vent dusty in bathroom.,hvac,non-urgent,2025-02-16 15:27:43.496195,False
@@ -557,13 +557,13 @@ Flickering lights in dining room.,electrical,semi-urgent,2025-02-24 01:17:52.746
 Several spider spotted in closet.,pest,semi-urgent,2025-02-23 03:37:30.617534,True
 Dishwasher not draining properly.,appliance,semi-urgent,2025-02-23 06:13:23.969349,True
 Carbon monoxide detector alarming in bathroom.,miscellaneous,urgent,2025-02-24 23:37:01.201146,True
-Suspicious gas smell in bedroom, children in home.,miscellaneous,urgent,2025-02-04 20:12:22.643052,True
+"Suspicious gas smell in bedroom, children in home.",miscellaneous,urgent,2025-02-04 20:12:22.643052,True
 Building directory needs updating.,miscellaneous,non-urgent,2025-02-03 15:57:48.258584,True
 Garbage disposal jammed in kitchen.,appliance,semi-urgent,2025-02-18 08:14:36.001277,False
 Range hood fan not working.,appliance,semi-urgent,2025-02-16 18:54:26.586624,True
 Balcony floor has collapsed partially.,structural,urgent,2025-02-01 01:08:11.538575,False
 One vent not working in bedroom.,hvac,non-urgent,2025-02-25 00:50:55.242533,True
-Sewage backing up in hallway, unable to stay in apartment.,plumbing,urgent,2025-02-06 19:38:00.293980,False
+"Sewage backing up in hallway, unable to stay in apartment.",plumbing,urgent,2025-02-06 19:38:00.293980,False
 Washing machine making slight noise during spin cycle.,appliance,non-urgent,2025-02-01 22:06:35.953645,False
 Window in entryway won't close properly.,structural,semi-urgent,2025-02-19 04:43:04.347163,False
 Ice maker leaking water onto floor.,appliance,semi-urgent,2025-02-03 12:13:25.812852,True
@@ -577,9 +577,9 @@ Furnace making loud banging noise and not heating.,hvac,urgent,2025-02-22 10:11:
 Washing machine not closing properly mid-cycle.,appliance,semi-urgent,2025-02-13 17:59:00.255806,True
 Main electrical panel smoking.,electrical,urgent,2025-02-21 01:46:07.226866,False
 Dryer smoking and smells like burning.,appliance,urgent,2025-02-28 02:58:59.087724,False
-Suspicious gas smell in hallway, unable to stay in apartment.,miscellaneous,urgent,2025-02-22 23:59:02.998335,False
+"Suspicious gas smell in hallway, unable to stay in apartment.",miscellaneous,urgent,2025-02-22 23:59:02.998335,False
 AC leaking heavily into electrical outlet in balcony.,hvac,urgent,2025-02-25 09:12:14.286202,True
-Cockroach infestation in bedroom, need immediate attention.,pest,urgent,2025-02-08 11:44:27.207368,True
+"Cockroach infestation in bedroom, need immediate attention.",pest,urgent,2025-02-08 11:44:27.207368,True
 Few houseflies in closet.,pest,non-urgent,2025-02-07 17:46:10.486778,False
 Gas stove burner won't turn off.,appliance,urgent,2025-02-04 06:35:22.671537,True
 Thermostat in balcony not working properly.,hvac,semi-urgent,2025-02-21 04:27:49.207913,False
@@ -601,15 +601,15 @@ Burning smell from entryway electrical panel.,electrical,urgent,2025-02-24 17:16
 Found a snake in bedroom.,pest,urgent,2025-02-15 12:09:52.161868,False
 Weak airflow from vents in hallway.,hvac,semi-urgent,2025-02-15 16:06:09.660065,False
 Main electrical panel smoking.,electrical,urgent,2025-02-22 16:46:52.217559,True
-Bed bugs found throughout apartment, extremely unsafe.,pest,urgent,2025-02-15 10:03:59.425392,False
+"Bed bugs found throughout apartment, extremely unsafe.",pest,urgent,2025-02-15 10:03:59.425392,False
 Microwave sparked and caught fire briefly.,appliance,urgent,2025-02-12 20:16:54.998553,True
 GFI outlet in closet won't reset.,electrical,semi-urgent,2025-02-23 11:29:33.168690,True
 Hot water tank leaking heavily in office.,plumbing,urgent,2025-02-08 05:36:45.889159,True
 Basement floor has collapsed partially.,structural,urgent,2025-02-05 10:00:20.979092,True
-Lightning struck building, power surging in outlets.,electrical,urgent,2025-02-13 23:08:18.574767,False
+"Lightning struck building, power surging in outlets.",electrical,urgent,2025-02-13 23:08:18.574767,False
 Minor stain under basement sink pipe.,plumbing,non-urgent,2025-02-18 13:30:24.176196,False
-Mold growing in office, getting gradually worse.,miscellaneous,semi-urgent,2025-02-11 10:18:52.211188,False
-Refrigerator completely stopped working, children in home.,appliance,urgent,2025-02-20 16:18:42.284081,False
+"Mold growing in office, getting gradually worse.",miscellaneous,semi-urgent,2025-02-11 10:18:52.211188,False
+"Refrigerator completely stopped working, children in home.",appliance,urgent,2025-02-20 16:18:42.284081,False
 Small chip in bedroom countertop.,structural,non-urgent,2025-02-09 09:10:56.777943,False
 Small hole in living room wall.,structural,semi-urgent,2025-02-26 21:51:45.416348,True
 Shower curtain rod rusting in living room.,plumbing,non-urgent,2025-02-17 23:26:43.055569,False
@@ -622,9 +622,9 @@ Loose doorknob in kitchen.,structural,non-urgent,2025-02-02 16:57:48.495958,Fals
 Wasps nest inside hallway window.,pest,urgent,2025-02-17 02:25:54.234211,False
 Heating vent dusty in bedroom.,hvac,non-urgent,2025-02-10 01:11:45.054975,False
 AC unit completely broken with electrical smell.,hvac,urgent,2025-02-10 00:27:32.592218,False
-Electrical outlet collapsed in dining room, elderly resident needs assistance.,electrical,urgent,2025-02-13 11:21:51.283457,False
+"Electrical outlet collapsed in dining room, elderly resident needs assistance.",electrical,urgent,2025-02-13 11:21:51.283457,False
 Flickering lights in living room.,electrical,semi-urgent,2025-02-23 10:56:25.482119,False
-Severe mold in bedroom, causing breathing difficulties.,miscellaneous,urgent,2025-02-06 12:53:17.416783,False
+"Severe mold in bedroom, causing breathing difficulties.",miscellaneous,urgent,2025-02-06 12:53:17.416783,False
 Heating vent dusty in kitchen.,hvac,non-urgent,2025-02-26 19:16:22.649346,False
 Thermostat display flickering in living room.,hvac,non-urgent,2025-02-02 21:58:43.403161,True
 Kitchen sink is overflowing onto the floor.,plumbing,urgent,2025-02-20 07:15:25.962319,True
@@ -635,12 +635,12 @@ Toilet in balcony occasionally runs.,plumbing,non-urgent,2025-02-13 14:26:48.306
 Microwave light bulb burnt out.,appliance,non-urgent,2025-02-03 09:06:28.209874,False
 Found centipede droppings in closet.,pest,semi-urgent,2025-02-10 12:36:33.521164,True
 Bathroom floor has collapsed partially.,structural,urgent,2025-02-19 22:44:30.723274,False
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-11 22:34:17.261250,True
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-11 22:34:17.261250,True
 Stove burner not lighting.,appliance,semi-urgent,2025-02-21 00:38:19.162595,False
 Minor ceiling damage in closet.,structural,semi-urgent,2025-02-25 04:50:41.773007,True
 One vent not working in bedroom.,hvac,non-urgent,2025-02-20 02:10:10.776576,False
 Door to basement malfunctioning.,structural,semi-urgent,2025-02-27 00:13:46.593357,False
-Washing machine overflowing, need immediate attention.,appliance,urgent,2025-02-12 13:07:38.852076,False
+"Washing machine overflowing, need immediate attention.",appliance,urgent,2025-02-12 13:07:38.852076,False
 Shock received from closet switch.,electrical,urgent,2025-02-16 05:01:26.826419,True
 Bathroom fan making slight noise.,electrical,non-urgent,2025-02-11 11:04:32.844110,False
 Spider webs in bedroom corner.,pest,non-urgent,2025-02-14 18:05:11.021159,False
@@ -654,11 +654,11 @@ Single cockroach spotted in kitchen.,pest,non-urgent,2025-02-24 09:12:01.049474,
 Carbon monoxide detector alarming in dining room.,miscellaneous,urgent,2025-02-16 01:16:22.231552,True
 Flies coming from hallway drain.,pest,semi-urgent,2025-02-23 12:45:00.777991,True
 Heat blowing cold air in office.,hvac,semi-urgent,2025-02-09 17:25:12.813151,True
-Severe leak from ceiling in basement, health risk.,plumbing,urgent,2025-02-23 04:38:46.234801,True
-Break-in attempt, bedroom window damaged.,miscellaneous,urgent,2025-02-22 20:48:17.635245,True
-Fire damage in closet, elderly resident needs assistance.,miscellaneous,urgent,2025-02-24 11:47:23.375411,True
+"Severe leak from ceiling in basement, health risk.",plumbing,urgent,2025-02-23 04:38:46.234801,True
+"Break-in attempt, bedroom window damaged.",miscellaneous,urgent,2025-02-22 20:48:17.635245,True
+"Fire damage in closet, elderly resident needs assistance.",miscellaneous,urgent,2025-02-24 11:47:23.375411,True
 Light switch plate cracked in hallway.,electrical,non-urgent,2025-02-12 15:46:12.136849,False
-Fire damage in basement, emergency situation.,miscellaneous,urgent,2025-02-24 19:48:49.586130,True
+"Fire damage in basement, emergency situation.",miscellaneous,urgent,2025-02-24 19:48:49.586130,True
 Microwave stopped heating food.,appliance,semi-urgent,2025-02-18 23:13:06.582387,False
 Air filter needs replacement in bedroom.,hvac,non-urgent,2025-02-05 21:15:43.260388,False
 Oven clock reset needed.,appliance,non-urgent,2025-02-05 15:46:45.916605,False
@@ -670,7 +670,7 @@ Weatherstripping coming off bedroom window.,structural,non-urgent,2025-02-07 16:
 Single light bulb out in living room.,electrical,non-urgent,2025-02-22 10:47:15.782556,False
 Microwave light bulb burnt out.,appliance,non-urgent,2025-02-18 17:36:05.913794,False
 Strange burning smell from heating system in basement.,hvac,urgent,2025-02-18 17:25:38.578352,True
-Balcony floor collapsed, unable to stay in apartment.,structural,urgent,2025-02-25 02:39:39.297963,False
+"Balcony floor collapsed, unable to stay in apartment.",structural,urgent,2025-02-25 02:39:39.297963,False
 Silverfish in living room bathroom.,pest,semi-urgent,2025-02-06 23:56:14.671804,True
 Main electrical panel smoking.,electrical,urgent,2025-02-24 22:12:51.694604,True
 Bedroom toilet overflowing onto floor.,plumbing,urgent,2025-02-05 20:48:09.562298,True
@@ -681,20 +681,20 @@ Ceiling fan making grinding noise in office.,electrical,semi-urgent,2025-02-22 2
 Ceiling fan wobbling slightly in office.,electrical,non-urgent,2025-02-25 11:04:21.739557,False
 Few houseflies in basement.,pest,non-urgent,2025-02-03 21:39:43.524591,False
 Recurring spiders in hallway.,pest,semi-urgent,2025-02-19 13:56:49.743238,True
-Front door lock broken, cannot secure apartment.,miscellaneous,urgent,2025-02-28 07:14:01.406902,True
-Clogged entryway toilet, moderate concern.,plumbing,semi-urgent,2025-02-19 12:32:31.765870,False
+"Front door lock broken, cannot secure apartment.",miscellaneous,urgent,2025-02-28 07:14:01.406902,True
+"Clogged entryway toilet, moderate concern.",plumbing,semi-urgent,2025-02-19 12:32:31.765870,False
 Recycle bin missing lid.,miscellaneous,non-urgent,2025-02-05 09:42:44.148970,True
 Small crack in bathroom wall.,structural,semi-urgent,2025-02-05 03:10:04.450474,True
 Recurring spiders in dining room.,pest,semi-urgent,2025-02-16 12:18:08.106997,True
 Some office floor boards are warped.,structural,semi-urgent,2025-02-19 14:22:03.143100,True
-Exposed wires in office, elderly resident needs assistance.,electrical,urgent,2025-02-26 06:44:26.134364,False
+"Exposed wires in office, elderly resident needs assistance.",electrical,urgent,2025-02-26 06:44:26.134364,False
 Flea infestation causing severe allergic reactions.,pest,urgent,2025-02-26 16:29:23.900969,True
-No heat in apartment, health risk.,hvac,urgent,2025-02-20 04:51:25.447023,True
-Multiple circuit breakers tripping, unable to stay in apartment.,electrical,urgent,2025-02-06 00:56:50.645875,True
+"No heat in apartment, health risk.",hvac,urgent,2025-02-20 04:51:25.447023,True
+"Multiple circuit breakers tripping, unable to stay in apartment.",electrical,urgent,2025-02-06 00:56:50.645875,True
 Balcony toilet overflowing onto floor.,plumbing,urgent,2025-02-10 19:10:23.713568,False
 Excessive moisture in dining room.,miscellaneous,semi-urgent,2025-02-22 07:42:36.141358,False
 Small hole in dining room wall.,structural,semi-urgent,2025-02-28 22:20:41.980095,True
-Entryway floor leaking severely, extremely unsafe.,structural,urgent,2025-02-25 17:26:50.103565,True
+"Entryway floor leaking severely, extremely unsafe.",structural,urgent,2025-02-25 17:26:50.103565,True
 Hallway faucet making strange noise.,plumbing,semi-urgent,2025-02-15 14:18:47.985894,False
 Heat not working and temperature below freezing inside.,hvac,urgent,2025-02-16 20:34:03.426126,False
 Buzzing sound from closet outlet.,electrical,semi-urgent,2025-02-22 03:58:19.279011,False
