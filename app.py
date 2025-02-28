@@ -75,5 +75,14 @@ def dashboard():
     issues = Issue.query.order_by(Issue.timestamp.desc()).all()
     return render_template('dashboard.html', issues=issues)
 
+# Add to app.py
+@app.route('/update_status/<issue_id>', methods=['POST'])
+def update_status(issue_id):
+    issue = Issue.query.get_or_404(issue_id)
+    issue.status = request.form.get('status')
+    db.session.commit()
+    flash('Status updated successfully!')
+    return redirect(url_for('dashboard'))
+
 if __name__ == '__main__':
     app.run(debug=True)
