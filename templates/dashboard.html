@@ -1,0 +1,65 @@
+<!-- templates/dashboard.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Maintenance Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #f2f2f2; }
+        .urgent { background-color: #ffebee; }
+        .resolved { background-color: #e8f5e9; }
+        img { max-width: 100px; max-height: 100px; }
+        .status-select { padding: 5px; }
+        .update-btn { background: #2196F3; color: white; border: none; padding: 5px 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Maintenance Issue Dashboard</h1>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Category</th>
+                <th>Urgency</th>
+                <th>Photo</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for issue in issues %}
+            <tr class="{% if issue.urgency == 'urgent' %}urgent{% elif issue.status == 'resolved' %}resolved{% endif %}">
+                <td>{{ issue.timestamp.strftime('%Y-%m-%d %H:%M') }}</td>
+                <td>{{ issue.text }}</td>
+                <td>{{ issue.category or 'Uncategorized' }}</td>
+                <td>{{ issue.urgency or 'Not assessed' }}</td>
+                <td>
+                    {% if issue.image_path %}
+                    <img src="{{ url_for('static', filename=issue.image_path) }}" alt="Issue photo">
+                    {% else %}
+                    No photo
+                    {% endif %}
+                </td>
+                <td>
+                    <form action="{{ url_for('update_status', issue_id=issue.id) }}" method="post">
+                        <select name="status" class="status-select">
+                            <option value="new" {% if issue.status == 'new' %}selected{% endif %}>New</option>
+                            <option value="in_progress" {% if issue.status == 'in_progress' %}selected{% endif %}>In Progress</option>
+                            <option value="resolved" {% if issue.status == 'resolved' %}selected{% endif %}>Resolved</option>
+                        </select>
+                </td>
+                <td>
+                        <button type="submit" class="update-btn">Update</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
